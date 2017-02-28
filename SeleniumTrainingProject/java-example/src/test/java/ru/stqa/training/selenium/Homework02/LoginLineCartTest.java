@@ -1,4 +1,4 @@
-package ru.stqa.training.selenium;
+package ru.stqa.training.selenium.Homework02;
 
 import org.junit.After;
 import org.junit.Before;
