@@ -1,4 +1,4 @@
-package ru.stqa.training.selenium.Homework04;
+package ru.stqa.training.selenium.Homework04_01;
 
 import org.junit.After;
 import org.junit.Assert;
@@ -15,7 +15,7 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 /**
  * Created by LenkaPenka on 04-Mar-17.
  */
-public class LineCartSurfingAdminPage extends LineCartSurfingAdminPageTestBase{
+public class LineCartSurfingAdminPage {
     private WebDriver driver;
     private WebDriverWait wait;
 
