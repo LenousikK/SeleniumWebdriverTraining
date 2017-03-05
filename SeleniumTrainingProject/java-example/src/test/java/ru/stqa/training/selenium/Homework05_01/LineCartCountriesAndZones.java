@@ -106,6 +106,7 @@ public class LineCartCountriesAndZones {
             }
             driver.get("http://localhost/litecart/admin/?app=geo_zones&doc=geo_zones");
             wait.until(titleIs("Geo Zones | My Store"));
+
         }
 
    }
