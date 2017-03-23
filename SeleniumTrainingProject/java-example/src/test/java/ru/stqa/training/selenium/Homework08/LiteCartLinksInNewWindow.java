@@ -30,7 +30,7 @@ public class LiteCartLinksInNewWindow {
 
     @Test
     public void testInChrome() {
-        //Open LiteCart Catalog Page
+        //Open LiteCart Countries Page
         driver.get("http://localhost/litecart/admin/?app=countries&doc=countries");
         //Do Login
         driver.findElement(By.name("username")).sendKeys("admin");
