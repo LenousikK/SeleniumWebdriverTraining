@@ -41,38 +41,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LiteCartAddNewProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework06_02/LiteCartAddNewProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="34" column="84" selection-start-line="33" selection-start-column="13" selection-end-line="34" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LiteCartCheckoutScenario.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework07/LiteCartCheckoutScenario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1694">
-              <caret line="90" column="5" selection-start-line="86" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LiteCartLinksInNewWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework08/LiteCartLinksInNewWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="550">
               <caret line="38" column="52" selection-start-line="32" selection-start-column="8" selection-end-line="38" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,7 +56,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="24" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,7 +78,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,18 +88,20 @@
       <file leaf-file-name="LineCartCreateNewUser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework06_01/LineCartCreateNewUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1027">
+            <state relative-caret-position="1254">
               <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LiteCartErrorsInBrowserConsole.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LiteCartErrorsInBrowserConsole.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_01/LiteCartErrorsInBrowserConsole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="537">
+              <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="93" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,23 +109,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Level.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/logging/Level.java">
+      <file leaf-file-name="LiteCartCatchTrafficUsingProxy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_02/LiteCartCatchTrafficUsingProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="123" column="34" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="34" />
+            <state relative-caret-position="-286">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework01/MyFirstTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LineCartCheckOnCorrectPageAndContentChrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework05_02/LineCartCheckOnCorrectPageAndContentChrome.java">
+      <file leaf-file-name="LoginLineCartTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework02/LoginLineCartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="28" column="39" selection-start-line="27" selection-start-column="12" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="528">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Level.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/logging/Level.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2090">
+              <caret line="123" column="34" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="34" />
               <folding>
+                <element signature="e#0#21997#0" expanded="false" />
                 <element signature="imports" expanded="false" />
+                <element signature="e#6499#6500#0" expanded="false" />
+                <element signature="e#6538#6539#0" expanded="false" />
+                <element signature="e#7099#7100#0" expanded="false" />
+                <element signature="e#7158#7159#0" expanded="false" />
+                <element signature="e#8006#8007#0" expanded="false" />
+                <element signature="e#8047#8048#0" expanded="false" />
+                <element signature="e#8193#8194#0" expanded="false" />
+                <element signature="e#8220#8221#0" expanded="false" />
+                <element signature="e#8512#8513#0" expanded="false" />
+                <element signature="e#8558#8559#0" expanded="false" />
+                <element signature="e#8729#8730#0" expanded="false" />
+                <element signature="e#8761#8762#0" expanded="false" />
+                <element signature="e#13317#13318#0" expanded="false" />
+                <element signature="e#13344#13345#0" expanded="false" />
+                <element signature="e#13593#13594#0" expanded="false" />
+                <element signature="e#13621#13622#0" expanded="false" />
+                <element signature="e#17213#17214#0" expanded="false" />
+                <element signature="e#17246#17247#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -520,6 +541,7 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework09_02/RemoteLaunchInClouds.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework08/LiteCartLinksInNewWindow.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_01/LiteCartErrorsInBrowserConsole.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_02/LiteCartCatchTrafficUsingProxy.java" />
       </list>
     </option>
   </component>
@@ -561,8 +583,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -607,7 +627,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Homework10_01" />
+              <option name="myItemId" value="Homework10_02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -639,6 +659,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -660,33 +682,7 @@
       <recent name="ru.stqa.training.selenium.Homework03_Draft" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LiteCartErrorsInBrowserConsole">
-    <configuration default="false" name="LiteCartCheckoutScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.training.selenium.Homework07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java-example_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium.Homework07" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.Homework07.LiteCartCheckoutScenario" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/java-example" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.LiteCartCatchTrafficUsingProxy">
     <configuration default="false" name="LiteCartLinksInNewWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -771,6 +767,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="ru.stqa.training.selenium.Homework10_01" />
       <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.Homework10_01.LiteCartErrorsInBrowserConsole" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/java-example" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LiteCartCatchTrafficUsingProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.training.selenium.Homework10_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java-example_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium.Homework10_02" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.Homework10_02.LiteCartCatchTrafficUsingProxy" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1039,19 +1061,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LiteCartCheckoutScenario" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LiteCartLinksInNewWindow" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RemoteLaunch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RemoteLaunchInClouds" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LiteCartErrorsInBrowserConsole" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LiteCartLinksInNewWindow" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RemoteLaunch" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RemoteLaunchInClouds" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LiteCartErrorsInBrowserConsole" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LiteCartCatchTrafficUsingProxy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LiteCartErrorsInBrowserConsole" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RemoteLaunchInClouds" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RemoteLaunch" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LiteCartLinksInNewWindow" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LiteCartCheckoutScenario" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LiteCartCatchTrafficUsingProxy" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LiteCartErrorsInBrowserConsole" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RemoteLaunchInClouds" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RemoteLaunch" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LiteCartLinksInNewWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -1072,29 +1094,29 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.23 at 23h 40m 42s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 18h 45m 13s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.23 at 23h 48m 42s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 18h 46m 20s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.23 at 23h 50m 31s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 18h 50m 18s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.23 at 23h 58m 10s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 18h 51m 13s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.23 at 23h 58m 57s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 19h 16m 47s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.24 at 00h 06m 04s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 19h 17m 50s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.24 at 00h 06m 41s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 19h 20m 14s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.24 at 00h 22m 17s.xml">
-      <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
+    <history-entry file="LiteCartCatchTrafficUsingProxy - 2017.03.25 at 20h 07m 37s.xml">
+      <configuration name="LiteCartCatchTrafficUsingProxy" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LiteCartErrorsInBrowserConsole - 2017.03.24 at 00h 22m 44s.xml">
       <configuration name="LiteCartErrorsInBrowserConsole" configurationId="JUnit" />
@@ -1114,7 +1136,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09529412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1162,13 +1184,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework01/MyFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework02/LoginLineCartTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -1366,13 +1381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework01/MyFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework04_02/LineCartStickersOnHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1408,13 +1416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework02/LoginLineCartTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework03_01/LoginLineCartMultipleBrowsers_Edge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1433,9 +1434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="28" column="39" selection-start-line="27" selection-start-column="12" selection-end-line="28" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1473,6 +1472,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework09_01/RemoteLaunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework09_02/RemoteLaunchInClouds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework06_01/LineCartCreateNewUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework08/LiteCartLinksInNewWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="38" column="52" selection-start-line="32" selection-start-column="8" selection-end-line="38" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/logging/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="123" column="34" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#21997#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6499#6500#0" expanded="false" />
+            <element signature="e#6538#6539#0" expanded="false" />
+            <element signature="e#7099#7100#0" expanded="false" />
+            <element signature="e#7158#7159#0" expanded="false" />
+            <element signature="e#8006#8007#0" expanded="false" />
+            <element signature="e#8047#8048#0" expanded="false" />
+            <element signature="e#8193#8194#0" expanded="false" />
+            <element signature="e#8220#8221#0" expanded="false" />
+            <element signature="e#8512#8513#0" expanded="false" />
+            <element signature="e#8558#8559#0" expanded="false" />
+            <element signature="e#8729#8730#0" expanded="false" />
+            <element signature="e#8761#8762#0" expanded="false" />
+            <element signature="e#13317#13318#0" expanded="false" />
+            <element signature="e#13344#13345#0" expanded="false" />
+            <element signature="e#13593#13594#0" expanded="false" />
+            <element signature="e#13621#13622#0" expanded="false" />
+            <element signature="e#17213#17214#0" expanded="false" />
+            <element signature="e#17246#17247#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1481,52 +1547,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework09_01/RemoteLaunch.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_01/LiteCartErrorsInBrowserConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework09_02/RemoteLaunchInClouds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework06_01/LineCartCreateNewUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1027">
-          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework08/LiteCartLinksInNewWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="38" column="52" selection-start-line="32" selection-start-column="8" selection-end-line="38" selection-end-column="52" />
+        <state relative-caret-position="537">
+          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="93" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/logging/Level.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework01/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="123" column="34" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="34" />
+        <state relative-caret-position="328">
+          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_01/LiteCartErrorsInBrowserConsole.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework02/LoginLineCartTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="528">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Homework10_02/LiteCartCatchTrafficUsingProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
